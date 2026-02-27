@@ -1,1 +1,1 @@
-I'm a Software Engineer in New York City and work for [Cogent Security](https://www.cogent.com/).
+I'm a Software Engineer in New York City and work for [Cogent Security](https://www.cogent.com/). My team and I are building the ultimate cybersecurity platform for enterprises and other large organizations.
